@@ -5,9 +5,9 @@ Full-Stack Developer
 --------------------
 
 * 🌍  I'm based in Cambridge, UK
-* 🖥️  See my portfolio at [Portfolio](http://portfolio-7pg8.onrender.com)
+* 🖥️  See my portfolio at [Portfolio](http://bob-karemera.onrender.com)
 * ✉️  You can contact me at [bobshema14@gmail.com](mailto:bobshema14@gmail.com)
-* 🚀  I'm currently working on [Trinity Baristas Café website](https://github.com/Bob-Karemera-Shema/trinity-baristas)
+* 🚀  I'm currently working on [Trinity Centre website](https://github.com/Bob-Karemera-Shema/trinity-centre)
 * 🧠  I'm learning Redux
 * 🤝  I'm open to collaborating on projects
 
