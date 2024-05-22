@@ -7,7 +7,7 @@ Full-Stack Developer
 * 🌍  I'm based in Cambridge, UK
 * 🖥️  See my portfolio at [Portfolio](http://bob-karemera.onrender.com)
 * ✉️  You can contact me at [bobshema14@gmail.com](mailto:bobshema14@gmail.com)
-* 🚀  I'm currently working on the [House Help Ltd website](https://github.com/Bob-Karemera-Shema/house-help)
+* 🚀  I'm currently working on [House Help Ltd website](https://github.com/Bob-Karemera-Shema/house-help)
 * 🧠  I'm learning Redux
 * 🤝  I'm open to collaborating on projects
 
