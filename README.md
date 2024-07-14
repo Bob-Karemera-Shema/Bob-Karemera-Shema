@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Developer
 --------------------
 
-* 🌍  I'm based in Cambridge, UK
+* 🌍  I'm based in Kigali, Rwanda
 * 🖥️  See my portfolio at [Portfolio](http://bob-karemera.onrender.com)
 * ✉️  You can contact me at [bobshema14@gmail.com](mailto:bobshema14@gmail.com)
 * 🤝  I'm open to collaborating on projects
