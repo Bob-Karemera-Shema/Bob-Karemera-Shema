@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm based in Kigali, Rwanda.<br>I'm currently learning Docker.<br>I'm open to collaborating on projects.<br>See my portfolio at [Portfolio](https://bob-karemera.onrender.com).
+I'm based in Kigali, Rwanda.<br>I'm currently learning Redis.<br>I'm open to collaborating on projects.<br>See my portfolio at [Portfolio](https://bob-karemera.onrender.com).
 
 
 ## 🌐 Socials:
